@@ -1,0 +1,3 @@
+variable "maprg_preprod" {
+
+}
