@@ -11,4 +11,9 @@ maprg_preprod = {
 
     location = "East US"
   }
+
+    veet_preprod = {
+
+    location = "East US"
+  }
 }
